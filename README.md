@@ -1,7 +1,6 @@
 # My Projects
 I have experience in developing front-end projects with a focus on UI design.
 
-<br/>
 <h3>Deduplication layer on Filecoin</h3>
 <hr/>
 <img align="right" height = "200px" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F477fc44df3b94017b8b4bef44fca3cd7%2Fprojects%2F713db28d1408486d9d7e3eb3624d3fa4%2Fdedba661-379e-4cd5-b4dd-5ef2e70a4fb3.jpeg&w=1440&q=75">
