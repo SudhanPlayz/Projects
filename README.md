@@ -1,5 +1,17 @@
 # My Projects
-I have created several front-end projects. I have many incomplete projects that i have started to code but never finished them, But most of the websites i create has good ui
+I have experience in developing front-end projects with a focus on UI design.
+
+<h3>Chat App</h3>
+<hr/>
+<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/gun%20db.gif >
+
+This is a discord-like chat application made using Gun DB which is a decentralized database.
+
+- Link to chat: [Discord UI](https://chat-app-sudhan.vercel.app/)
+
+- Made with HTML/CSS/JS
+
+- Used Gun DB as database
 
 <h3>Discord UI</h3>
 <hr/>
