@@ -11,6 +11,8 @@ In our solution, if multiple users are storing the same file on Filecoin, they a
 
 - Link to project: [Deduplication layer on Filecoin](https://devfolio.co/projects/deduplication-layer-on-filecoin-4bb1)
 
+- Built on ETH India 2022 🏆
+
 <br/>
 <h3>Lumina</h3>
 <hr/>
