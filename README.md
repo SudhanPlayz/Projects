@@ -1,6 +1,15 @@
 # My Projects
 I have experience in developing front-end projects with a focus on UI design.
 
+<h3>Lumina</h3>
+<hr/>
+<img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/lumina.png">
+Lumina, a comprehensive guide and database for the popular game Genshin Impact. This website offers detailed information on characters, weapons, artifacts, and more, as well as useful tools and resources for players of all levels.
+
+- Link to web: [Lumina](https://lumina-roan.vercel.app/)
+
+- Made with NextJS and scss
+
 <h3>The Celestial</h3>
 <hr/>
 <img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/celestial.gif">
