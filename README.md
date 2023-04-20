@@ -5,7 +5,7 @@ I have experience in developing front-end projects with a focus on UI design.
 <hr/>
 <img align="right" height = "200px" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F477fc44df3b94017b8b4bef44fca3cd7%2Fprojects%2F713db28d1408486d9d7e3eb3624d3fa4%2Fdedba661-379e-4cd5-b4dd-5ef2e70a4fb3.jpeg&w=1440&q=75">
 
-The pricing models of web2 storage providers like Dropbox or Goolge drive charge a user based on per GB basis. Imagine a scenario where you and your friend both subscribed to Dropbox and storing the same file on respective Dropboxes. In this case, both of you will get charged from the Dropbox. Although, Filecoin is a web3 solution, it is still following the pricing models of web2 storage providers.
+The pricing models of web2 storage providers like Dropbox or Google drive charge a user based on per GB basis. Imagine a scenario where you and your friend both subscribed to Dropbox and storing the same file on respective Dropboxes. In this case, both of you will get charged from the Dropbox. Although, Filecoin is a web3 solution, it is still following the pricing models of web2 storage providers.
 
 In our solution, if multiple users are storing the same file on Filecoin, they all can share the cost of storing the file and there will be only copy (excluding fault-tolerance requirement) of that file exsists in the network.
 
