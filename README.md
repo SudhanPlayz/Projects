@@ -1,13 +1,25 @@
 # My Projects
 I have experience in developing front-end projects with a focus on UI design.
 
+<h3>The Celestial</h3>
+<hr/>
+<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/celestial.gif >
+
+This is my attempt to make a game with Phaser
+
+- Link to game: [The Celestial](https://the-celestial.vercel.app/)
+
+- Made with HTML/CSS/JS
+
+- Used Phaser as game engine
+
 <h3>Chat App</h3>
 <hr/>
 <img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/gun%20db.gif >
 
 This is a discord-like chat application made using Gun DB which is a decentralized database.
 
-- Link to chat: [Discord UI](https://chat-app-sudhan.vercel.app/)
+- Link to chat: [Chat App](https://chat-app-sudhan.vercel.app/)
 
 - Made with HTML/CSS/JS
 
