@@ -3,7 +3,7 @@ I have experience in developing front-end projects with a focus on UI design.
 
 <h3>The Celestial</h3>
 <hr/>
-<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/celestial.gif">
+<img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/celestial.gif">
 This is my attempt to make a game with Phaser
 
 - Link to game: [The Celestial](https://the-celestial.vercel.app/)
@@ -14,7 +14,7 @@ This is my attempt to make a game with Phaser
 
 <h3>Chat App</h3>
 <hr/>
-<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/gun%20db.gif">
+<img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/gun%20db.gif">
 
 This is a discord-like chat application made using Gun DB which is a decentralized database.
 
@@ -26,7 +26,7 @@ This is a discord-like chat application made using Gun DB which is a decentraliz
 
 <h3>Discord UI</h3>
 <hr/>
-<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/dc%20ui.gif">
+<img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/dc%20ui.gif">
 
 This is my attempt on recreating the Discord UI myself from scratch using react and scss.
 
@@ -36,7 +36,7 @@ This is my attempt on recreating the Discord UI myself from scratch using react 
 
 <h3>Discord Music Bot with Web Dashboard</h3>
 <hr/>
-<img align="right" height = "250px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/dc%20music%20bot.png">
+<img align="right" height = "200px" src="https://github.com/SudhanPlayz/Projects/raw/master/assets/dc%20music%20bot.png">
 
 An discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 
